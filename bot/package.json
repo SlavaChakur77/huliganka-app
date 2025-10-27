@@ -1,0 +1,11 @@
+{
+  "name": "soulmate-app",
+  "version": "1.0.0",
+  "main": "bot/bot.js",
+  "scripts": {
+    "start": "node bot/bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.0"
+  }
+}
